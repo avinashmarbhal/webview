@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681491492022",
+    "project_id": "rahurimarket-e7276",
+    "storage_bucket": "rahurimarket-e7276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681491492022:android:7dfd3ed8e68c2386090a17",
+        "android_client_info": {
+          "package_name": "com.RahuriMarket.rahurimarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681491492022-qaugbjea111uikq9v603vkk2qif842pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAimJzBWdAtrKruoxbQKFBmSkoPoIuIdck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681491492022-qaugbjea111uikq9v603vkk2qif842pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
